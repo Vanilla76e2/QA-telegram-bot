@@ -30,8 +30,8 @@
 1.  Клонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/username/telegram-question-bot.git
-   cd telegram-question-bot
+   git clone https://github.com/Vanilla76e2/QA-telegram-bot.git
+   cd QA-telegram-bot
    ```
 
 2. Создайте виртуальное окружение и установите зависимости:
