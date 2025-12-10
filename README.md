@@ -108,4 +108,4 @@ CLI автоматически создаёт `config.json` при первой 
 
 ## Лицензия
 
-MIT License.
+GNU GPLV3
